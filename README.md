@@ -4,4 +4,5 @@
 ### Remote change
 3. **Chocolate chip cookie**
 4. ### This is a REMOTE change :O
+![Chocolate chip cookie](recipe.jpg)
 
